@@ -1,13 +1,15 @@
 {
   "slug": "SonusDept",
   "name": "Sonus Dept",
+  "license": "GPL3",
   "version": "0.5.0",
   "source": "https://gitlab.com/sonusdept/sonusmodular",
   "manual": "https://gitlab.com/sonusdept/sonusmodular#sonus-modular",
-  "download": "http://sonusmodular.sonusdept.com/",
+  "download": "http://sonusdept.altervista.org/files/sonusmodular/sonusmodular-0.5.0.zip",
   "arch": [
     "win",
     "mac",
     "lin"
-  ]
+  ],
+  "sha256": "4db4d4f0bac5481f013f8dc9ba175ecd16758d84480999691d29ce18c45af534"
 }

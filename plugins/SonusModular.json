@@ -3,6 +3,8 @@
   "name": "Sonus Dept",
   "version": "0.5.0",
   "homepage": "http://sonusmodular.sonusdept.com/",
+  "donation": "https://www.paypal.me/sonusdept",
+  "manual": "https://gitlab.com/sonusdept/sonusmodular#sonus-modular",
   "source": "https://gitlab.com/sonusdept/sonusmodular",
   "downloads": {
     "win": {
